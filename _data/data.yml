@@ -9,13 +9,12 @@ sidebar:
     # Profile information
     name: Preston van Tonder
     tagline: Mathematician, Software Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
+    avatar:   #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     # Sidebar links
     email: prestonvtonder@gmail.com
     phone: 
     website:  #do not add http://
-    linkedin: alandoe
+    linkedin: preston-van-tonder 
     github: prestonvtonder
     gitlab:
     bitbucket:
@@ -52,19 +51,16 @@ career-profile:
       it is important for me to build on my academic foundations and stay in tune with the
       latest technological developments. This is why am always on the lookout for new
       challenges and novel things to learn. It is through this approach that I hope to
-      gain the practical experience, as a 3rd year university student, to develop myself professionally.
+      gain the practical experience, as a third year university student, to develop myself professionally.
 education:
     - degree: BSc in Applied Mathematics
       university: University of Pretoria
       time: 2018 - Present
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        I am currently in my third year studying a BSc in Applied Mathematics and doing a second major in Computer
+        Science.
+          - Dean's List of Exceptional Achievers 2018
+          - Golden Key Honour Society
 
     - degree: National Senior Certificate
       university: Jeppe High School for Boys
@@ -128,7 +124,7 @@ skills:
         level: 80%
 
       - name: Angular
-        level: 98%
+        level: 80%
 
       - name: HTML5 & CSS
         level: 95%
